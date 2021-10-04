@@ -280,7 +280,7 @@ a:focus {
     flex-direction: column;
 }
 
-.hero .hero-text p {
+.hero .hero-text p,h4 {
     color: #ffffff;
     font-size: 25px;
     font-weight: 600;
